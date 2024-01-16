@@ -252,7 +252,7 @@ create_socket_msg db "INFO: Creating a socket...", 10
 create_socket_msg_length = $ - create_socket_msg
 start_binding_msg db "INFO: binding the socket...", 10
 start_binding_msg_length = $ - start_binding_msg
-start_listen_msg db "INFO: listen the socket on port:1234", 10
+start_listen_msg db "INFO: listen the socket on port:3000", 10
 start_listen_msg_length = $ - start_listen_msg
 accept_msg db "INFO: wating for client connection!", 10
 accept_msg_length = $ - accept_msg
