@@ -17,7 +17,7 @@ Before you can build and run the web server, make sure you have the following to
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/webserver-assembly.git
+  git clone https://github.com/Mahmoud-Khaled-FS/web-assembly
   cd webserver-assembly
 ```
 
